@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Banner](https://raw.githubusercontent.com/USERNAME/USERNAME/main/assets/banner.png)
+![Banner](https://www.canva.com/design/DAGzIS0FrWg/zQXJL9nrzT0ovXR_n_thxw/edit)
 
 # 👋 Hi, I'm INFA PRAMANIK — MERN Stack Developer
 ### 💻 Building dynamic, responsive, and data-driven web applications
