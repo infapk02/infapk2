@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Banner](https://www.canva.com/design/DAGzIS0FrWg/zQXJL9nrzT0ovXR_n_thxw/edit)
+![Banner](https://github.com/infapk02/infapk2/blob/main/Blue%20and%20White%20Gradient%20Web%20Developer%20LinkedIn%20Article%20Cover%20Image%20(1).png)
 
 # 👋 Hi, I'm INFA PRAMANIK — MERN Stack Developer
 ### 💻 Building dynamic, responsive, and data-driven web applications
