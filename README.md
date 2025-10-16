@@ -55,7 +55,7 @@ Currently, I’m exploring **Next.js** and **TypeScript** to expand my full-stac
 - **Portfolio:** [your-portfolio-link.com](https://your-portfolio-link.com)
 
 ---
-
+<!--
 ## 🏆 Featured Projects
 
 ### 🛒 1. MERN eCommerce
@@ -109,3 +109,4 @@ npm install
 
 # 4. Start the development server
 npm start
+ -->
