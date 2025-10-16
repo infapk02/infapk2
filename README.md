@@ -37,7 +37,7 @@ Currently, I’m exploring **Next.js** and **TypeScript** to expand my full-stac
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose)
 
-### 🧩 Tools & DevOps
+### 🧩 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visualstudiocode)
@@ -53,13 +53,6 @@ Currently, I’m exploring **Next.js** and **TypeScript** to expand my full-stac
 - **LinkedIn:** [linkedin.com/in/infapramanik](https://www.linkedin.com/in/infapramanik/)
 - **Email:** work.infa02@gmail.com
 - **Portfolio:** [your-portfolio-link.com](https://your-portfolio-link.com)
-
----
-
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=radical)
 
 ---
 
